@@ -13,7 +13,7 @@ res.then((data)=>data.json()).then((data1)=>{
 <div class="card-body">
   <h5 class="card-title">${data1[i].name}</h5>
 <p class="card-text">"${data1[i].region}"</p>
-  <a href="#" class="https://api.openweathermap.org/data/2.5/weather?q">"click for weather"</a>
+  <a href="#" class="https://api.openweathermap.org/data/2.5/weather?q">click for weather</a>
 
             </div>
         </div>
