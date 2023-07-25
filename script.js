@@ -8,7 +8,7 @@ res.then((data)=>data.json()).then((data1)=>{
              <div class="col-md-4">
                 <div class="box-part text-center">
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 9rem;">
 <img src="${data1[i].flag}" class="card-img-top" alt="...">
 <div class="card-body">
   <h5 class="card-title">${data1[i].name}</h5>
