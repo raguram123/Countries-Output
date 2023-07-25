@@ -1,9 +1,13 @@
 body{
     display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+    margin: 10px;
 }
-.card-body {
-    -ms-flex: 1 1 auto;
-    flex: 1 1 auto;
-    min-height: 1px;
-    padding: 1.25rem;
+.card{
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    background-color:lightpink;
+    border-radius: 5rem;
 }
